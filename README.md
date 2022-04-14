@@ -1,4 +1,4 @@
-# The Password Manager
+# My Password Manager
 ## Concepts Practiced
 - Working with Images and Setting up the Canvas
 - Use grid() and columnspan to Complete the User Interface
