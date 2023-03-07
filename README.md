@@ -9,7 +9,7 @@
 - Raising Exceptions
 - IndexError Handling
 - KeyError Handling
-- Write, read and update JSON data in the Password Manager
+- Write, read, and update JSON data in the Password Manager
 
 ## Language Implemented
 Python
